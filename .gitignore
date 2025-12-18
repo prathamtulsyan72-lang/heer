@@ -21,3 +21,7 @@ node_modules
 *.njsproj
 *.sln
 *.sw?
+# allow dist for GitHub Pages
+!dist/
+!dist/**
+
